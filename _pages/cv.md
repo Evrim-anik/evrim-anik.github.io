@@ -9,39 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D in School of Medicine- University of Leeds, 2022 
+* MSc in Psychology (Conversion) - The University of Nottingham
+* MA in Psychology of Religion - Marmara University
+* B.A -Marmara University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Research Statistician, School of Medicine, University of Leeds (February 2025- Present)
+*	Seconded Post-doctoral Research Fellow, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds (April 2024- February 2025)
+*	Research Manager, Leeds Translational and Clinical Research, University of Leeds (April 2023- February 2025)
+*	Research Assistant-Data Analyst, Leeds Institute of Health Sciences, University of Leeds (February 2022- April 2023)
 
-Publications
+## Selected Data Resources
+I have worked with a range of large-scale health data resources, including:
+
+- **PHOSP-COVID** — Post-Hospitalisation COVID-19 Study
+- **ReSPECT** — Recommended Summary Plan for Emergency Care and Treatment
+- **PICANet** — Paediatric Intensive Care Audit Network
+- **Leeds Data Model** — Population-level linked health and social care data
+ 
+## Skills
+
+**Programming:** R · Python · SQL · Stata  
+**Statistical Methods:** Regression · Survival Analysis · Latent Class Analysis · Mixed-effects Models · Multiple Imputation · Meta-analysis  
+**Data Science:** Data Management · Data Cleaning · Data Visualisation · Reproducible Research  
+**Research:** Epidemiology · Health Services Research · Clinical Trials · Multimorbidity · Mental Health · Health Inequalities  
+**Platforms:** Microsoft Fabric · Apache Spark
+
+
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
